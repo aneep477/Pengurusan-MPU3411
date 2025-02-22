@@ -4119,20 +4119,20 @@
         "gred": "F"
     },
     {
-        "id": 244,
-        "nama": "YIK SIEW LING",
-        "no_kp": "50419130396",
-        "a_giliran": "2023182310188.0",
-        "kelas": "PSVK1",
-        "jantina": "P",
-        "ujian": 0,
-        "amali_larian": 0,
-        "amali_lontaran": 0,
-        "hp3": 0,
-        "penyediaan_trek": 0,
-        "penyediaan_sektor": 0,
-        "hp7": 0,
-        "jumlah": 0,
-        "gred": "F"
-    }
+    "id": 244,
+    "nama": "YIK SIEW LING",
+    "no_kp": "50419130396",
+    "a_giliran": "2023182310188.0",
+    "kelas": "PSVK1",
+    "jantina": "P",
+    "ujian": 0,
+    "amali_larian": 0,
+    "amali_lontaran": 0,
+    "hp3": 0,
+    "penyediaan_trek": 0,
+    "penyediaan_sektor": 0,
+    "hp7": 0,
+    "jumlah": 0,
+    "gred": "F"
+}
 ]
